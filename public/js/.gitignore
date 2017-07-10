@@ -1,0 +1,5 @@
+app.*.js
+login.*.js
+manifest.*.js
+vendor.*.js
+!.gitignore

@@ -1,0 +1,1 @@
+下面是您的金生金后台管理系统随机密码：<font style="font-weight: bold">{{$pass}}</font>，您可以通过邮箱和随机密码进行登录，登录后需要立即修改密码。金生金后台管理系统登录地址：http://admin.jsjsy.com。
